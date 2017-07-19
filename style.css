@@ -3,7 +3,7 @@ body
     background-color: #ffffff;
     color: black;
 
-    background-image: url('peint.jpg');
+    background-image: url("peint.jpg");
     background-attachment: fixed; /* Le fond restera fixe */
     background-repeat: no-repeat; /* Le fond ne sera pas répété */
     background-position: right; /* Le fond sera placé en haut à droite */
