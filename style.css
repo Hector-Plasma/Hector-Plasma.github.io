@@ -1,0 +1,32 @@
+body
+{
+    background-color: #ffffff;
+    color: black;
+
+    background-image: url("peint.jpg");
+    background-attachment: fixed; /* Le fond restera fixe */
+    background-repeat: no-repeat; /* Le fond ne sera pas répété */
+    background-position: right; /* Le fond sera placé en haut à droite */
+
+}
+
+p
+{
+    box-shadow: 6px 6px 6px black;
+}
+
+
+
+li {
+ font-family: Baskerville, Times;
+li {
+ font-family: Arial, sans-serif;
+ font-size: 100%;
+ color: black;
+ list-style-type: none;
+ background-image: url("spi.gif");
+ background-repeat: no-repeat;
+ background-position: 0 0.32em;
+ padding-left: 15px;
+} 
+} 
