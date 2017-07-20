@@ -16,6 +16,13 @@ p
 }
 
 
+ul {
+  list-style-type: circle;
+}
+
+li:first-child {
+  list-style-type: disc;
+}
 
 li {
  font-family: Baskerville, Times;
